@@ -24,6 +24,5 @@ A **modern, minimal landing page** for interior design—built to showcase desig
 - **Vite Hot Module Replacement (HMR)** – Fast, live updates during development for high productivity.
 - **Minimal Boilerplate** – Focuses on clarity, easy editing, and rapid iteration.
 
----
 
-This repository demonstrates your skills with modern frontend tools, rapid development workflows, effective, aesthetic web presentation, and the use of library-based UI solutions like shadcn/ui to craft polished interfaces for creative domains.
+
